@@ -1,7 +1,5 @@
-Github für die Gestaltung eines Blow-By Messgeräts
+# Repository für das Microcontroller des Blow-By Messgeräts
+## Entwickelt auf dem Raspberry Pi Pico mit MicroPython.
 
-Entwickelt auf dem Raspberry Pi Pico mit MicroPython.
-Zu herunterladen sind die max31856.py Datei auf dem Raspberry Pico über Thonny.
+Für Änderungen und das Hochladen von Dateien, einen Pull Request erstellen.
 
-
-In diesem Repository sind die Versionsverwaltungen und Problemmeldung hochzuladen.
